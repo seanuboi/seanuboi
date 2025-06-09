@@ -56,7 +56,7 @@
 ###
 
 <div style="margin-top: 20px; text-align: center;">
-  <img src="https://media.giphy.com/media/3oKIPwoeG8xXwZxowg/giphy.gif" alt="Anime Girl" style="max-width: 300px; width: 100%; height: auto;" />
+  <img src="https://media.giphy.com/media/3oKIPwoeG8xXwZxowg/giphy.gif" alt="Anime" style="max-width: 300px; width: 100%; height: auto;" />
 </div>
 
 ###
