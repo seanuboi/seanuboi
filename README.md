@@ -1,5 +1,7 @@
 <h2 align="left">YOOOO It's me SEAN🙏💔🥀</h2>
 
+<p>sybau🥀💔tspmo🥀💔mapagmahal at di ka iiwan🥀💔</p>
+
 ###
 
 <div align="center">
@@ -10,9 +12,7 @@
 ###
 
 <div style="text-align: center;">
-  <p>sybau🥀💔
-    tspmo🥀💔
-  mapagmahal at di ka iiwan🥀💔</p>
+  
   <img src="https://media.giphy.com/media/3o6Zt6ML6BklcajjsA/giphy.gif" alt="Mads Mikkelsen Hannibal" width="300"/>
 </div>
 
@@ -45,23 +45,16 @@
 ###
 
 <div align="center">
-  <a href="https://discord.com/invite/yourDiscordLink" target="_blank">
+  <a href="https://discord.com/invite/micoke0055" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
   </a>
-  <a href="https://twitch.tv/yourTwitchChannel" target="_blank">
+  <a href="https://twitch.tv/micoke005" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
   </a>
-  <a href="https://www.facebook.com/share/yourFacebookPost" target="_blank">
+  <a href="https://www.facebook.com/dave.salando.1" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
   </a>
-  <a href="https://www.instagram.com/yourInstagramHandle" target="_blank">
+  <a href="https://www.instagram.com/batmyco?igsh=YXh2djFsMTlwMXNr" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   </a>
 </div>
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
-###
