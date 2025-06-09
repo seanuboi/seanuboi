@@ -1,7 +1,5 @@
 <h2>YOOOO It's SEAN🙏💔🥀</h2>
 
-<p>tspmo💔🥀sybau💔🥀 </p>
-
 <div align="center" style="margin-top: 10px;">
   <!-- Icons with links -->
   <a href="https://your-chrome-link" target="_blank">
@@ -47,4 +45,9 @@
   <a href="https://www.instagram.com/batmyco?igsh=YXh2djFsMTlwMXNr" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram badge" />
   </a>
+</div>
+
+<!-- Ryan Gosling GIF centered in the middle of the page -->
+<div style="display: flex; justify-content: center; align-items: center; height: 400px; margin-top: 20px;">
+  <img src="https://media.giphy.com/media/3oKIPwoe7mYXzV6H6k/giphy.gif" alt="Ryan Gosling GIF" width="300" />
 </div>
