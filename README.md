@@ -59,11 +59,9 @@
 <div style="margin-top: 20px; text-align: center;">
   <img src="https://media.giphy.com/media/ZRouJhQpbhPzTJ2eBU/giphy.gif" alt="Sleeping" style="max-width: 300px; width: 100%; height: auto;" />
 </div>
-###
-
-
 
 ###
+
 
 <!-- Badges with social links -->
 <div align="center" style="margin-top: 10px;">
