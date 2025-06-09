@@ -1,6 +1,6 @@
-<h2 align="center">YOOOO It's SEAN🙏💔🥀</h2>
+<h2 align="center">YOOOO It's me SEAN🙏💔🥀</h2>
 
-<p align="center">i miss you🙏🥀💔</p>
+<p align="center">tspmo🙏🥀💔sybau🥀💔🙏</p>
 
 <div align="center">
   <table>
