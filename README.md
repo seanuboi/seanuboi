@@ -16,7 +16,7 @@
       </td>
 
       <!-- Right: GIF -->
-      <td>
+ <td>
         <img src="https://i.imgflip.com/65efzo.gif" height="150" alt="funny gif" />
       </td>
     </tr>
