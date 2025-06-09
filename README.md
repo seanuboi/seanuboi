@@ -1,6 +1,9 @@
 <h1 align="center">Yoooo It's me SEAN!! 🙏🥀💔</h1>
 
-<p>sybau🥀💔tspmo🥀💔</p>
+<div style="text-align: center;">
+  <p>sybau🥀💔tspmo🥀💔</p>
+  <img src="https://media.giphy.com/media/3o6Zt6ML6BklcajjsA/giphy.gif" alt="Mads Mikkelsen Hannibal" width="300"/>
+</div>
 
 ###
 
@@ -40,5 +43,3 @@
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   </a>
 </div>
-
-###
