@@ -6,7 +6,7 @@
   <img src="https://media.giphy.com/media/ZRouJhQpbhPzTJ2eBU/giphy.gif" alt="Sleeping" width="300" />
 </div>
 
-https://github.com/user-attachments/assets/5462f0d7-5958-4ad2-bbd3-33119d738c31
+![GIF](https://github.com/user-attachments/assets/5462f0d7-5958-4ad2-bbd3-33119d738c31)
 <br>
 
 <div align="center">
