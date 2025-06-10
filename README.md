@@ -44,7 +44,7 @@
       </td>
 
       <!-- New Smaller GIF -->
-      <td>
+   <td>
         <img src="https://github.com/user-attachments/assets/baabc925-0f57-4071-b40e-ac600de41105" height="150" alt="tech gif" />
       </td>
     </tr>
