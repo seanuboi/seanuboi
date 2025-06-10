@@ -3,7 +3,7 @@
 <p align="center">tspmo🙏🥀💔sybau🥀💔🙏</p>
 <br>
 
-
+<!-- Social Media Badges -->
 <div align="center">
   <a href="https://www.instagram.com/batmyco?igsh=YXh2djFsMTlwMXNr" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram" />
@@ -23,11 +23,13 @@
 </div>
 <br>
 
+<!-- BIG GIF Replaced -->
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/baabc925-0f57-4071-b40e-ac600de41105" alt="GIF">
+  <img src="https://github.com/user-attachments/assets/5462f0d7-5958-4ad2-bbd3-33119d738c31" alt="GIF" height="150" />
 </p>
 <br>
 
+<!-- Tech Stack + Old Smaller GIF -->
 <div align="center">
   <table>
     <tr>
@@ -41,15 +43,16 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
       </td>
 
-   <td>
-        <img src="https://github.com/user-attachments/assets/baabc925-0f57-4071-b40e-ac600de41105" height="150" alt="new gif" />
+      <!-- Right: Original smaller GIF -->
+      <td>
+        <img src="https://i.imgflip.com/65efzo.gif" height="150" alt="funny gif" />
       </td>
     </tr>
   </table>
 </div>
 <br>
 
-<br>
+<!-- App Icons -->
 <div align="center">
   <a href="https://your-chrome-link" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="60" alt="chrome logo" />
