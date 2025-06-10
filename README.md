@@ -23,17 +23,17 @@
 </div>
 <br>
 
-<!-- BIG GIF Replaced -->
+<!-- BIG GIF (unchanged) -->
 <p align="center">
   <img src="https://github.com/user-attachments/assets/5462f0d7-5958-4ad2-bbd3-33119d738c31" alt="GIF" height="150" />
 </p>
 <br>
 
-<!-- Tech Stack + Old Smaller GIF -->
+<!-- Tech Stack + SMALL GIF -->
 <div align="center">
   <table>
     <tr>
-      <!-- Left: Icons -->
+      <!-- Tech Icons -->
       <td>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo" />
@@ -43,16 +43,16 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
       </td>
 
-      <!-- Right: Original smaller GIF -->
-   <td>
-        <img src="https://i.imgflip.com/65efzo.gif" height="150" alt="funny gif" />
+      <!-- New Smaller GIF -->
+      <td>
+        <img src="https://github.com/user-attachments/assets/baabc925-0f57-4071-b40e-ac600de41105" height="150" alt="tech gif" />
       </td>
     </tr>
   </table>
 </div>
 <br>
 
-<!-- App Icons -->
+<!-- App/Platform Icons -->
 <div align="center">
   <a href="https://your-chrome-link" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="60" alt="chrome logo" />
