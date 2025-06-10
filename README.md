@@ -24,7 +24,7 @@
 <br>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/5462f0d7-5958-4ad2-bbd3-33119d738c31" alt="GIF">
+  <img src="https://github.com/user-attachments/assets/baabc925-0f57-4071-b40e-ac600de41105" alt="GIF">
 </p>
 <br>
 
@@ -41,9 +41,9 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
       </td>
 
-    
- <td>
-        <img src="https://i.imgflip.com/65efzo.gif" height="150" alt="funny gif" />
+      <!-- Right: New GIF -->
+      <td>
+        <img src="https://github.com/user-attachments/assets/baabc925-0f57-4071-b40e-ac600de41105" height="150" alt="new gif" />
       </td>
     </tr>
   </table>
