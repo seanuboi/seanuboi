@@ -2,11 +2,12 @@
 <br>
 <p align="center">tspmo🙏🥀💔sybau🥀💔🙏</p>
 <br>
-<div align="center" style="margin-top: 20px;">
-  <img src="https://media.giphy.com/media/ZRouJhQpbhPzTJ2eBU/giphy.gif" alt="Sleeping" width="300" />
-</div>
 
-![GIF](https://github.com/user-attachments/assets/5462f0d7-5958-4ad2-bbd3-33119d738c31)
+
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/5462f0d7-5958-4ad2-bbd3-33119d738c31" alt="GIF">
+</p>
 <br>
 
 <div align="center">
