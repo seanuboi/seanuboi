@@ -2,6 +2,28 @@
 
 <p align="center">tspmo🙏🥀💔sybau🥀💔🙏</p>
 
+<br>
+
+<div align="center" style="margin-top: 20px;">
+  <img src="https://media.giphy.com/media/ZRouJhQpbhPzTJ2eBU/giphy.gif" alt="Sleeping" width="300" />
+</div>
+
+<div align="center" style="margin-top: 10px;">
+  <a href="https://discord.com/invite/micoke0055" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord badge" />
+  </a>
+  <a href="https://twitch.tv/micoke005" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch badge" />
+  </a>
+  <a href="https://www.facebook.com/dave.salando.1" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook badge" />
+  </a>
+  <a href="https://www.instagram.com/batmyco?igsh=YXh2djFsMTlwMXNr" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram badge" />
+  </a>
+</div>
+</br>
+
 <div align="center">
   <table>
     <tr>
@@ -21,25 +43,6 @@
       </td>
     </tr>
   </table>
-</div>
-
-<div align="center" style="margin-top: 20px;">
-  <img src="https://media.giphy.com/media/ZRouJhQpbhPzTJ2eBU/giphy.gif" alt="Sleeping" width="300" />
-</div>
-
-<div align="center" style="margin-top: 10px;">
-  <a href="https://discord.com/invite/micoke0055" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord badge" />
-  </a>
-  <a href="https://twitch.tv/micoke005" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch badge" />
-  </a>
-  <a href="https://www.facebook.com/dave.salando.1" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook badge" />
-  </a>
-  <a href="https://www.instagram.com/batmyco?igsh=YXh2djFsMTlwMXNr" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram badge" />
-  </a>
 </div>
 
 
