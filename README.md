@@ -43,7 +43,7 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
       </td>
 
-      <!-- New Smaller GIF -->
+      
    <td>
         <img src="https://github.com/user-attachments/assets/baabc925-0f57-4071-b40e-ac600de41105" height="150" alt="tech gif" />
       </td>
