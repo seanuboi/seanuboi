@@ -53,11 +53,20 @@
 <br>
 
 <!-- 3 GIFs with Border and First in Center -->
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/8030f0fa-bcd0-4f43-a373-244d32894788" 
-       width="200" style="border:2px solid #ccc; border-radius:10px; margin:5px;" />
-  <img src="https://github.com/user-attachments/assets/816e414e-6420-4fb0-987b-856815f55bbe" 
-       width="200" style="border:2px solid #ccc; border-radius:10px; margin:5px;" />
-  <img src="https://github.com/user-attachments/assets/de0a0907-86fe-4e9a-8d37-c09d9aa9964f" 
-       width="200" style="border:2px solid #ccc; border-radius:10px; margin:5px;" />
-</p>
+<!-- Container for GIFs -->
+<div style="display: flex; justify-content: center; gap: 10px; margin-top: 20px;">
+  <!-- GIF 1 -->
+  <div style="border: 2px solid black; padding: 5px;">
+    <img src="GIF1_URL.gif" alt="GIF 1" style="width: 100px; height: auto;">
+  </div>
+
+  <!-- GIF 2 -->
+  <div style="border: 2px solid black; padding: 5px;">
+    <img src="GIF2_URL.gif" alt="GIF 2" style="width: 100px; height: auto;">
+  </div>
+
+  <!-- GIF 3 -->
+  <div style="border: 2px solid black; padding: 5px;">
+    <img src="GIF3_URL.gif" alt="GIF 3" style="width: 100px; height: auto;">
+  </div>
+</div>
