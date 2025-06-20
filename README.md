@@ -3,7 +3,9 @@
 <p align="center">tspmo🙏🥀💔sybau🥀💔🙏</p>
 <br>
 
-<h2 align="center" style="font-size: 32px; color: #ff3366;">❤️‍🩹⬇️CLICK HERE & FOLLOW⬇️❤️‍🩹</h2>
+<h2 align="center" style="font-size: 40px; font-weight: bold; color: #ff3366; text-shadow: 1px 1px #000;">
+  ❤️‍🩹⬇️CLICK HERE & FOLLOW⬇️❤️‍🩹
+</h2>
 <br>
 
 <!-- Social Media Badges -->
@@ -37,12 +39,12 @@
   <table>
     <tr>
       <td>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" />
       </td>
       <td>
         <img src="https://github.com/user-attachments/assets/baabc925-0f57-4071-b40e-ac600de41105" height="150" alt="tech gif" />
@@ -52,21 +54,12 @@
 </div>
 <br>
 
-<!-- 3 GIFs with Border and First in Center -->
-<!-- Container for GIFs -->
-<div style="display: flex; justify-content: center; gap: 10px; margin-top: 20px;">
-  <!-- GIF 1 -->
-  <div style="border: 2px solid black; padding: 5px;">
-    <img src="GIF1_URL.gif" alt="GIF 1" style="width: 100px; height: auto;">
-  </div>
-
-  <!-- GIF 2 -->
-  <div style="border: 2px solid black; padding: 5px;">
-    <img src="GIF2_URL.gif" alt="GIF 2" style="width: 100px; height: auto;">
-  </div>
-
-  <!-- GIF 3 -->
-  <div style="border: 2px solid black; padding: 5px;">
-    <img src="GIF3_URL.gif" alt="GIF 3" style="width: 100px; height: auto;">
-  </div>
+<!-- 3 GIFs with Border, Spacing, and Resizing -->
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/8030f0fa-bcd0-4f43-a373-244d32894788" 
+       width="160" style="border:3px solid black; border-radius:12px; margin:10px;" />
+  <img src="https://github.com/user-attachments/assets/816e414e-6420-4fb0-987b-856815f55bbe" 
+       width="160" style="border:3px solid black; border-radius:12px; margin:10px;" />
+  <img src="https://github.com/user-attachments/assets/de0a0907-86fe-4e9a-8d37-c09d9aa9964f" 
+       width="160" style="border:3px solid black; border-radius:12px; margin:10px;" />
 </div>
