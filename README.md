@@ -3,7 +3,7 @@
 <p align="center">tspmo🙏🥀💔sybau🥀💔🙏</p>
 <br>
 
-<h2 align="center" style="font-size: 32px; color: #ff3366;">❤️‍🩹⬇️CLICK & CONTACT ME HERE⬇️❤️‍🩹</h2>
+<h2 align="center" style="font-size: 32px; color: #ff3366;">❤️‍🩹⬇️CLICK HERE & FOLLOW⬇️❤️‍🩹</h2>
 <br>
 
 <!-- Social Media Badges -->
