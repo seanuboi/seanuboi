@@ -63,3 +63,9 @@
   <img src="https://github.com/user-attachments/assets/de0a0907-86fe-4e9a-8d37-c09d9aa9964f" 
        width="160" style="border:3px solid black; border-radius:12px; margin:10px;" />
 </div>
+<br>
+
+<!-- I'M GOATED Footer -->
+<h2 align="center" style="font-size: 36px; color: #00ffcc; font-weight: bold; text-shadow: 2px 2px #000;">
+  I'M GOATED 💯🐐
+</h2>
