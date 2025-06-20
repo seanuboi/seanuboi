@@ -3,6 +3,9 @@
 <p align="center">tspmo🙏🥀💔sybau🥀💔🙏</p>
 <br>
 
+<h2 align="center" style="font-size: 32px; color: #ff3366;">🚨 FOLLOW MY SOCMED 🚨</h2>
+<br>
+
 <!-- Social Media Badges -->
 <div align="center">
   <a href="https://www.instagram.com/batmyco?igsh=YXh2djFsMTlwMXNr" target="_blank">
@@ -23,17 +26,16 @@
 </div>
 <br>
 
-<!-- BIG GIF (unchanged) -->
+<!-- Big Center GIF -->
 <p align="center">
   <img src="https://github.com/user-attachments/assets/5462f0d7-5958-4ad2-bbd3-33119d738c31" alt="GIF" height="150" />
 </p>
 <br>
 
-<!-- Tech Stack + SMALL GIF -->
+<!-- Tech Stack and Small GIF -->
 <div align="center">
   <table>
     <tr>
-      <!-- Tech Icons -->
       <td>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo" />
@@ -42,9 +44,7 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
       </td>
-
-      
-   <td>
+      <td>
         <img src="https://github.com/user-attachments/assets/baabc925-0f57-4071-b40e-ac600de41105" height="150" alt="tech gif" />
       </td>
     </tr>
@@ -52,6 +52,7 @@
 </div>
 <br>
 
+<!-- 3 GIFs with Border and First in Center -->
 <p align="center">
   <img src="https://github.com/user-attachments/assets/8030f0fa-bcd0-4f43-a373-244d32894788" 
        width="200" style="border:2px solid #ccc; border-radius:10px; margin:5px;" />
